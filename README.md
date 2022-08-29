@@ -1,3 +1,3 @@
 # DEMO
 
-Training project
+Training project for GitHub
